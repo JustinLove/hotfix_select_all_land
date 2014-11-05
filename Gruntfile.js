@@ -31,7 +31,8 @@ module.exports = function(grunt) {
       units: {
         targets: [
           'pa/units/land/aa_missile_vehicle/aa_missile_vehicle.json',
-          'pa/units/land/bot_bomb/bot_bomb.json'
+          'pa/units/land/bot_bomb/bot_bomb.json',
+          'pa/units/land/fabrication_bot_combat_adv/fabrication_bot_combat_adv.json',
         ],
         process: function(spec) {
           spec.unit_types.push('UNITTYPE_Offense')

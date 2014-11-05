@@ -3,12 +3,12 @@
   "build": "74525",
   "category": ["hotfix"],
   "context": "server",
-  "date": "2014/11/01",
-  "description": "Fix unittypes for AA vehicle and bomb bot so they are selected by the land hotkey.",
+  "date": "2014/11/05",
+  "description": "Fix unittypes for AA vehicle, bomb bot, and adv comfab so they are selected by the land hotkey.",
   "display_name": "Hotfix Select All Land",
   "forum": "https://forums.uberent.com/threads/i-fixed-a-bug-d-fs-4046.65719/",
   "identifier": "com.wondible.pa.hotfix_select_all_land",
   "signature": "not yet implemented",
-  "version": "1.0.0"
+  "version": "1.1.0"
 }
 
