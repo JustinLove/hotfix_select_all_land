@@ -2,11 +2,6 @@
 
 Fix unittypes for AA vehicle and boomb bot so they are selected by the land hotkey.
 
-## Features
-
-- Rainbows
-- Unicorns
-
 ## Development
 
 The generated project includes a `package.json` that lists the dependencies, but you'll need to run `npm install` to download them.
